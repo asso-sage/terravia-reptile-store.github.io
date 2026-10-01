@@ -90,3 +90,8 @@ TERRAVIA is a storefront concept. Reptile habitat requirements vary by species. 
 No open-source license has been applied at this stage.
 
 © 2026 TERRAVIA Reptile Co. All rights reserved.
+
+
+## Image Presentation Update
+
+The product and category image system uses consistent square assets, centered framing, preserved image paths, and responsive containment so products remain visually aligned across cards, cart, and detail views.
